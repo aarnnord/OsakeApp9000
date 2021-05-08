@@ -1,0 +1,1415 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"><meta name="application-name" content="Yritystiedot"><link rel="stylesheet" media="screen,print" href="//www.is.fi/assets/css/fonts-is.6e0ce11a0e66af30.css"><link rel="stylesheet" media="screen,print" href="//www.is.fi/assets/css/main-is.b40146f4d96f1355.css"><link rel="stylesheet" media="screen,print" href="//www.is.fi/assets/css/other-is.b65b3a860e0b95bc.css"><link href="//fonts.googleapis.com/css?family=Playfair+Display:700%7CRoboto:400,400i,500,500i%7CSource+Sans+Pro:400,400i,600,700,700i%7CSource+Serif+Pro:700&amp;subset=latin-ext" rel="stylesheet" type="text/css"><noscript>
+<style>
+.fitted-heading span {
+visibility: visible !important;
+white-space: normal !important;
+font-size: 35px !important;
+}
+</style></noscript><script>
+window.lazyloadingConfig = {
+networkSpeedFactor: function(speedChangeCallback) {
+var initialSpeed = 1.0;
+var connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+function onConnectionChange() {
+if(speedChangeCallback) {
+speedChangeCallback(getSpeed());
+}
+}
+function getSpeed() {
+var retVal = 1;
+if(!connection.effectiveType) {
+return [retVal, 'initial'];
+}
+switch(connection.effectiveType) {
+case '4g':
+retVal = 1;
+break;
+case '3g':
+retVal = 0.7;
+break;
+default:
+retVal = 0.4;
+break;
+}
+return [retVal, 'api'];
+}
+function bindChangeListeners() {
+connection.addEventListener('typechange', onConnectionChange);
+}
+if(connection) {
+bindChangeListeners();
+return initialSpeed === 1 ? getSpeed() : [initialSpeed, "initial"];
+} else {
+return [initialSpeed, "initial"];
+}
+}
+}
+</script><script src="//www.is.fi/assets/js/imageloader.5ec22e7c49f7d00f.js"></script><script src="//www.is.fi/assets/js/head.e4d418b25c16435d.js"></script><script>window.liveArticleErrors = []; window.liveArticleConfig = {
+host: "live.is.fi",
+scriptUrl: "https://www.is.fi/assets/livearticle/enzo-ed4d6a5.js",
+product: "is"
+};</script><script>
+window.stockErrors = [];
+window.stockServiceConfig = {
+version: "c2b710c3",
+fullUrl: "//porssi.iltasanomat.fi/assets/javascripts/stockdata.min.c2b710c3.js"
+};
+</script><script type="text/javascript">
+var config = JSON.parse('{"uid": 54060,"domain": "is.fi","flickerControl": false,"useCanonical": true,"title": "","sections": "","authors": "","autoDetect":false}');
+var _sf_async_config = _sf_async_config || config;
+var _sf_startpt = (new Date()).getTime();
+</script><script src="//static.chartbeat.com/js/chartbeat_mab.js" defer></script><meta http-equiv="expires" content="0"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="cleartype" content="on"><meta name="googlebot" content="noodp, noarchive"><link rel="mask-icon" color="#da2128" sizes="any" href="//www.is.fi/assets/images/platform-icons/safari_pinned_tab_mask.e9ee6859e4636e49.svg"><link rel="icon" type="image/svg+xml" sizes="any" href="//www.is.fi/assets/images/platform-icons/taloussanomat/favicon.5211a8668f60f593.svg"><link rel="icon" type="image/x-icon" sizes="16x16 24x24 32x32 48x48 64x64" href="//www.is.fi/assets/images/platform-icons/taloussanomat/favicon.f071a15a5728df35.ico"><link rel="icon" type="image/png" sizes="240x240" href="//www.is.fi/assets/images/platform-icons/taloussanomat/favicon-240x240.0be7c867e0580828.png"><meta name="theme-color" content="#e0211d"><link rel="manifest" href="//www.is.fi/taloussanomat/manifest.json"><link rel="apple-touch-icon" sizes="180x180" href="//www.is.fi/assets/images/platform-icons/taloussanomat/apple-touch-icon-180x180.4e6c9ff6b5b5bdf3.png"><link rel="apple-touch-icon" sizes="167x167" href="//www.is.fi/assets/images/platform-icons/taloussanomat/apple-touch-icon-167x167.ff49a0f503a85ca2.png"><link rel="apple-touch-icon" sizes="152x152" href="//www.is.fi/assets/images/platform-icons/taloussanomat/apple-touch-icon-152x152.1f552fbcc9bc8202.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="//www.is.fi/assets/images/platform-icons/taloussanomat/apple-touch-icon-144x144-precomposed.992aaf0be314957a.png"><link rel="apple-touch-icon" sizes="120x120" href="//www.is.fi/assets/images/platform-icons/taloussanomat/apple-touch-icon-120x120.e478fff5b6b2827d.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="//www.is.fi/assets/images/platform-icons/taloussanomat/apple-touch-icon-114x114-precomposed.678ee09b92bceb2f.png"><link rel="apple-touch-icon" sizes="76x76" href="//www.is.fi/assets/images/platform-icons/taloussanomat/apple-touch-icon-76x76.0b5f02052998fba9.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="//www.is.fi/assets/images/platform-icons/taloussanomat/apple-touch-icon-72x72-precomposed.72c0b2e761621420.png"><meta name="format-detection" content="telephone=no">	<title>Osinkokalenteri 2020 - Taloussanomat</title>
+<meta name="description" content="Perehdy pörssiyhtiöiden osinkohistoriaan ja osingonmaksupäiviin maksutta Taloussanomissa">
+<link rel="canonical" href="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2020/"/>
+<meta property="og:title" content="Osinkokalenteri 2020" />
+<meta property="og:description" content="Perehdy pörssiyhtiöiden osinkohistoriaan ja osingonmaksupäiviin maksutta Taloussanomissa" />
+
+<meta name="twitter:title" content="Osinkokalenteri 2020" />
+<meta name="twitter:description" content="Perehdy pörssiyhtiöiden osinkohistoriaan ja osingonmaksupäiviin maksutta Taloussanomissa" />
+
+<meta property="article:publisher" content="https://www.facebook.com/Taloussanomat" />
+<meta property="fb:admins" content="579578013" />
+<meta property="fb:app_id" content="164001156999236" />
+<meta property="og:site_name" content="Taloussanomat" />
+
+<meta name="twitter:app:name:googleplay" content="Taloussanomat" />
+	<meta name="twitter:app:id:googleplay" content="fi.taloussanomat" />
+
+	
+<link media="all" type="text/css" rel="stylesheet" href="//www.is.fi/yritykset/build/css/main-fba347ef31.css">
+
+
+<script src="//www.is.fi/yritykset/build/js/main-c76171afd4.js"></script>
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@taloussanomat">
+
+<!-- jsonld -->
+</head>
+	
+<body>
+		<body data-page-id="276" class="taloussanomat yritystiedot  viewtype-section">
+<ul id="skip-links"><li><a class="skip-to-content" href="#page-main-content">Siirry sivun p&auml;&auml;sis&auml;lt&ouml;&ouml;n.</a></li>
+<li><a class="skip-to-search" href="#global-search-form">Siirry sivuston hakuun.</a></li>
+</ul><span id="js-mobile"></span>
+<a name="header"></a>
+<div class="geolocation-permission-ui-container"></div>
+<script type="text/javascript">
+/* GTM datalayer */
+			dataLayer = [{"page":{"pageinfo":{"pagename":"Osinkokalenteri 2020","variant":"Control"},"category":{"pagetype":"Dividend Calendar","categoryid":"is\/taloussanomat\/","fullcategory":"\/osinkokalenteri\/vuosi\/2020"}}}];
+
+</script><noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-NX7S72" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+if (window.Features.isMobile) {
+window.dataLayer[0].page.category.categoryid = window.dataLayer[0].page.category.categoryid.replace(/^is\//, "is/mobiili/");
+}
+var groups = window.PeTestGroup.getTestGroups();
+for (var key in groups) {
+window.dataLayer[0].page.pageinfo[key] = groups[key];
+}
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NX7S72');
+</script><script type="text/javascript">
+var _sf_startpt = (new Date()).getTime();
+</script><script type="text/javascript">
+var _sf_async_config = _sf_async_config || {};
+/** CONFIGURATION START **/
+
+/** CONFIGURATION END **/
+(function () {
+function loadChartbeat() {
+/** User subscription information - Not available before this **/
+_cbq = window._cbq = (window._cbq || []);
+_cbq.push(['_acct', window.ProfileInfo.chartBeatSubscriberValue()]);
+window._sf_endpt = (new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function () {
+oldonload();
+loadChartbeat();
+};
+})();
+</script><script>window.ProfileInfo.initialize({
+isSafeEnabled: true,
+sessionTokenLeeway: 30,
+validateSessionUrl: '/rest/auth/validate',
+activateSessionUrl: '/rest/auth/activate',
+userinfoUrl: '/rest/auth/userinfo',
+safeSessionTokenUrl: 'https://www.is.fi/api/safe/v1/web/session-token',
+gattlingUrl: 'https://www.is.fi/rest/auth/startGatlingSession',
+isGatlingEnabled: true,
+isSessionLimitTrackingEnabled: false
+})</script><script type="text/javascript">
+try {
+window.utag_data = {
+dmp_sad_id: window.ProfileInfo && window.ProfileInfo.getAdId && window.ProfileInfo.getAdId(),
+ad_site_name: "is-fi",
+ad_positions: [],
+ad_page_category: "talous",
+ad_page_subcategory: "yritystieto",
+ad_tags: [],
+ad_keyvalues: {
+hasvideoplayer: "false",
+info: window.ProfileInfo && window.ProfileInfo.kvInfo && window.ProfileInfo.kvInfo(),
+},
+ad_disable_ads: "false",
+audienceProjectSectionIdWeb: "d641e9d7-9759-4edb-a435-b5fde789f5d4",
+audienceProjectSectionIdIOS: "2ea36558-e22e-43be-88c1-b5b28b653172",
+audienceProjectSectionIdAndroid: "fd83b155-9105-44f8-b172-fb28bf36bf13",
+ad_context: "talous",
+ad_delay_ad_loading: "false",
+page_type: "Section",
+leikiKeywords: {},
+dmp_odc_status: window.ProfileInfo && window.ProfileInfo.getOdcValue && window.ProfileInfo.getOdcValue()
+};
+} catch (ex) { window.console.log(ex); }
+</script><script type="text/javascript" src="//tags.tiqcdn.com/utag/sanoma-fi/is-fi/prod/utag.js"></script><div class="top-wallpaper-ad-wrapper top-ad-wrapper"></div>
+<div class="wrapper site-wrapper">
+<main><div class="content-wrapper ">
+<div class="lane header-position ">
+<div class="block ">
+<div class="header-wrapper taloussanomat-header">
+<div class="header-aside-bar" role="banner">
+<div class="global-search" id="global-search">
+<a class="global-search-show" href="#"><i class="fa fa-search"></i></a>
+<form action="/haku/" method="get" accept-charset="utf-8" role="search">
+<input type="search" name="query" id="global-search-query" aria-label="haku"><button class="search-term-cancel" type="reset"></button>
+<button type="submit" value="Hae">Hae <i class="fa fa-search"></i></button>
+</form>
+<a class="global-search-hide" href="#"><i class="fa icon-close-symbol" aria-label="piilota hakulomake"></i></a>
+<script>
+window.tailCallbacks.queue(function(){
+window.GlobalSearch.init('#global-search');
+window.Search.initCancel('#global-search-query');
+});
+</script></div>
+<nav class="secondary-navigation"><ul><li class="top150"><a href="//www.is.fi/tuoreimmat/">Tuoreimmat</a></li>
+<li class="dailypaper"><a href="//www.is.fi/lehti/">P&auml;iv&auml;n lehti</a></li>
+<li class="readerphoto"><a href="//www.is.fi/uutisvihje/">L&auml;het&auml; vihje tai kuva</a></li>
+<li class="feedback"><a href="https://alypaa.com/?utm_source=isfi&amp;utm_medium=isfi-ylanavi&amp;utm_campaign=isfi-ylanavi&amp;utm_content=isfi-ylanavi"><span class="icon"></span>&Auml;lyp&auml;&auml;</a></li>
+<li class="vacation"><a href="http://lomakuumetta.fi/akkilahdot?utm_source=IS&amp;utm_medium=topnavi"><span class="icon"></span>&Auml;kkil&auml;hd&ouml;t</a></li>
+<li class="jobs"><a href="https://tyopaikat.oikotie.fi/"><span class="icon"></span>Ty&ouml;paikat</a></li>
+<li class="iltapulu"><a href="http://www.iltapulu.fi/?ref=is-top-nav">TV-ohjelmat</a></li>
+</ul></nav></div>
+<header class="main-header" role="banner"><div class="header-inner-wrapper">
+<script>
+window.tailCallbacks.queue(function(){
+window.SoMe.initBeforePrint('/assets/images/taloussanomat-logo-header.cf8ae36900039503.png');
+});
+</script><a href="//www.is.fi/taloussanomat/" id="main-logo">Taloussanomat</a>
+</div>
+<h1 class="section-title"><a href="taloussanomat/osinkokalenteri/">OSINKOKALENTERI</a></h1>
+<button id="main-nav-toggle" role="button" aria-haspopup="true" tabindex="0">Osastot</button>
+<nav class="navigation dropdown-navigation" id="mobile-navigation"><ul class="level-one mobile"><li class="frontpage  item-level-one">
+<div class="title">
+<a href="//www.is.fi/" class="title first-class-title" navigation_id="0">IS Etusivu</a>
+<span class="personal-front-page-mobile-settings-toggle hidden"></span>
+<script>
+// If user is set to use personalization (redirect is on) modify href to avoid unnecessary redirect / -> /uusi/
+if ((false && window.NewFrontPageRedirect.isInTestGroup()) || (true && window.NewFrontPageRedirect.isRedirectOn())) {
+var navIdZeroElements = document.querySelectorAll("a[navigation_id='0']");
+for (var i = 0; i < navIdZeroElements.length; i++) {
+// This will replace href attribute on both desktop and mobile navigation
+navIdZeroElements[i].setAttribute("href", "/uusi/");
+}
+}
+</script></div>
+<div class="dropdown">
+<div class="dropdown-col" style="">
+<div class="personal-front-page-col">
+<div id="2647776" class="personalized-front-page-selection hidden ">
+<div class="fa-cog-container"><i class="fa fa-cog fa-cog-red"></i></div>
+<div class="pe-fe-panel">
+<div class="pe-fe-panel-switch">
+<span class="label">Uusi etusivu</span>
+<span class="status-indicator"></span>
+<span class="switch">
+<span class="slider round"></span>
+</span>
+</div>
+<div class="note">
+T&auml;rkeimm&auml;t uutiset ja sinulle suositeltuja sis&auml;lt&ouml;j&auml; k&auml;ytt&ouml;rytmisi mukaisesti. <a href="http://www.is.fi/info/art-2000005182894.html">
+Lue lis&auml;&auml;</a></div>
+</div>
+</div>
+<script>
+window.NewFrontPageRedirect.show('2647776');
+</script></div>
+</div>
+</div>
+</li>
+<li class="taloussanomat has-subs item-level-one">
+<div class="title">
+<a href="//www.is.fi/taloussanomat/" class="title first-class-title" navigation_id="1">Uutiset</a>
+<span class="toggle" aria-hidden="true"></span>
+</div>
+<div class="dropdown">
+<div class="dropdown-col" style="">
+<ul class="level-two"><li class=" ">
+<a href="//www.is.fi/taloussanomat/oma-raha/" tabindex="-1" class="0">
+<span class="title">Oma raha</span>
+</a>
+</li>
+</ul></div>
+<div class="dropdown-col latest">
+<span class="vignette"></span>
+<ul></ul></div>
+</div>
+</li>
+<li class="porssi has-subs item-level-one">
+<div class="title">
+<a href="//www.is.fi/taloussanomat/porssi/" class="title first-class-title" navigation_id="2">Markkinat</a>
+<span class="toggle" aria-hidden="true"></span>
+</div>
+<div class="dropdown">
+<div class="dropdown-col" style="">
+<ul class="level-two"><li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/rahastot/" tabindex="-1" class="0">
+<span class="title">Rahastot</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/osakkeet-suomi/" tabindex="-1" class="0">
+<span class="title">Osakkeet</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/korot/" tabindex="-1" class="0">
+<span class="title">Korot</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/indeksit-suomi/" tabindex="-1" class="0">
+<span class="title">Indeksit</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/valuutat/" tabindex="-1" class="0">
+<span class="title">Valuuttakurssit</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/osinkokalenteri/" tabindex="-1" class="0">
+<span class="title">Osinkokalenteri</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/osinkokalenteri/tulosjulkistukset/" tabindex="-1" class="0">
+<span class="title">Tulosjulkistukset</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/yritykset/kalenteri/" tabindex="-1" class="0">
+<span class="title">Tapahtumakalenteri</span>
+</a>
+</li>
+<li class=" ">
+<a href="http://zenostock.com/login_talsa.php" tabindex="-1" class="0">
+<span class="title">Osakesalkku</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/yritykset/talouden-tunnusluvut/" tabindex="-1" class="0">
+<span class="title">Talouden tunnusluvut</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/valittajat/" tabindex="-1" class="0">
+<span class="title">Osakev&auml;litt&auml;j&auml;t</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/porssitiedotteet/" tabindex="-1" class="0">
+<span class="title">P&ouml;rssitiedotteet</span>
+</a>
+</li>
+<li class=" ">
+<a href="http://taloussanomat.ar.wilink.com/asp/N043_search_FIN.asp" tabindex="-1" class="0">
+<span class="title">Vuosikertomukset</span>
+</a>
+</li>
+</ul></div>
+<div class="dropdown-col latest">
+<span class="vignette"></span>
+<ul></ul></div>
+</div>
+</li>
+<li class="yrityshaku has-subs item-level-one">
+<div class="title">
+<a href="//www.is.fi/yritykset/" class="title first-class-title" navigation_id="3">Yritystiedot</a>
+<span class="toggle" aria-hidden="true"></span>
+</div>
+<div class="dropdown">
+<div class="dropdown-col" style="">
+<ul class="level-two"><li class=" ">
+<a href="//www.is.fi/yritykset/" tabindex="-1" class="0">
+<span class="title">Hae yrityksi&auml;</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/yritykset/protestit/" tabindex="-1" class="0">
+<span class="title">Protestit</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/yritykset/rating-muutokset/" tabindex="-1" class="0">
+<span class="title">Rating-muutokset</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/yritykset/uudet/" tabindex="-1" class="0">
+<span class="title">Uudet yritykset</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/lehdistotiedotteet/" tabindex="-1" class="0">
+<span class="title">Lehdist&ouml;tiedotteet</span>
+</a>
+</li>
+</ul></div>
+<div class="dropdown-col latest">
+<span class="vignette"></span>
+<ul></ul></div>
+</div>
+</li>
+<li class="omaraha  item-level-one">
+<div class="title">
+<a href="//www.is.fi/taloussanomat/oma-raha/" class="title first-class-title" navigation_id="4">Oma raha</a>
+</div>
+</li>
+</ul><div class="dropdown-search">
+<form action="/haku/" method="get">
+<input type="search" name="query" id="dropdown-search-query" autocapitalize="off"><button class="search-term-cancel" type="reset"></button>
+<input type="submit" value="Hae!"></form>
+<script>
+window.tailCallbacks.queue(function() {
+window.Search.initCancel("#dropdown-search-query");
+});
+</script></div>
+</nav></header><nav class="navigation main-navigation" id="desktop-navigation"><ul class="level-one desktop"><li class="frontpage  item-level-one">
+<div class="title">
+<a href="//www.is.fi/" class="title first-class-title" navigation_id="0">Etusivu</a>
+<script>
+// If user is set to use personalization (redirect is on) modify href to avoid unnecessary redirect / -> /uusi/
+if ((false && window.NewFrontPageRedirect.isInTestGroup()) || (true && window.NewFrontPageRedirect.isRedirectOn())) {
+var navIdZeroElements = document.querySelectorAll("a[navigation_id='0']");
+for (var i = 0; i < navIdZeroElements.length; i++) {
+// This will replace href attribute on both desktop and mobile navigation
+navIdZeroElements[i].setAttribute("href", "/uusi/");
+}
+}
+</script></div>
+</li>
+<li class="gap  item-level-one">
+<div class="title">
+<a href="#" class="title first-class-title" navigation_id="1"></a>
+</div>
+</li>
+<li class="taloussanomat has-subs item-level-one">
+<div class="title">
+<a href="//www.is.fi/taloussanomat/" class="title first-class-title" navigation_id="2">Uutiset</a>
+<span class="toggle" aria-hidden="true"></span>
+</div>
+<div class="dropdown">
+<div class="dropdown-col" style="">
+<ul class="level-two"><li class=" ">
+<a href="//www.is.fi/taloussanomat/oma-raha/" tabindex="-1" class="0">
+<span class="title">Oma raha</span>
+</a>
+</li>
+</ul></div>
+<div class="dropdown-col latest">
+<span class="vignette"></span>
+<ul></ul></div>
+</div>
+</li>
+<li class="porssi has-subs item-level-one">
+<div class="title">
+<a href="//www.is.fi/taloussanomat/porssi/" class="title first-class-title" navigation_id="3">Markkinat</a>
+<span class="toggle" aria-hidden="true"></span>
+</div>
+<div class="dropdown">
+<div class="dropdown-col" style="">
+<ul class="level-two"><li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/rahastot/" tabindex="-1" class="0">
+<span class="title">Rahastot</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/osakkeet-suomi/" tabindex="-1" class="0">
+<span class="title">Osakkeet</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/korot/" tabindex="-1" class="0">
+<span class="title">Korot</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/indeksit-suomi/" tabindex="-1" class="0">
+<span class="title">Indeksit</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/valuutat/" tabindex="-1" class="0">
+<span class="title">Valuuttakurssit</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/osinkokalenteri/" tabindex="-1" class="0">
+<span class="title">Osinkokalenteri</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/osinkokalenteri/tulosjulkistukset/" tabindex="-1" class="0">
+<span class="title">Tulosjulkistukset</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/yritykset/kalenteri/" tabindex="-1" class="0">
+<span class="title">Tapahtumakalenteri</span>
+</a>
+</li>
+<li class=" ">
+<a href="http://zenostock.com/login_talsa.php" tabindex="-1" class="0">
+<span class="title">Osakesalkku</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/yritykset/talouden-tunnusluvut/" tabindex="-1" class="0">
+<span class="title">Talouden tunnusluvut</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/valittajat/" tabindex="-1" class="0">
+<span class="title">Osakev&auml;litt&auml;j&auml;t</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/porssitiedotteet/" tabindex="-1" class="0">
+<span class="title">P&ouml;rssitiedotteet</span>
+</a>
+</li>
+<li class=" ">
+<a href="http://taloussanomat.ar.wilink.com/asp/N043_search_FIN.asp" tabindex="-1" class="0">
+<span class="title">Vuosikertomukset</span>
+</a>
+</li>
+</ul></div>
+<div class="dropdown-col latest">
+<span class="vignette"></span>
+<ul></ul></div>
+</div>
+</li>
+<li class="yrityshaku has-subs item-level-one">
+<div class="title">
+<a href="//www.is.fi/yritykset/" class="title first-class-title" navigation_id="4">Yritystiedot</a>
+<span class="toggle" aria-hidden="true"></span>
+</div>
+<div class="dropdown">
+<div class="dropdown-col" style="">
+<ul class="level-two"><li class=" ">
+<a href="//www.is.fi/yritykset/" tabindex="-1" class="0">
+<span class="title">Hae yrityksi&auml;</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/yritykset/protestit/" tabindex="-1" class="0">
+<span class="title">Protestit</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/yritykset/rating-muutokset/" tabindex="-1" class="0">
+<span class="title">Rating-muutokset</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/yritykset/uudet/" tabindex="-1" class="0">
+<span class="title">Uudet yritykset</span>
+</a>
+</li>
+<li class=" ">
+<a href="//www.is.fi/taloussanomat/porssi/lehdistotiedotteet/" tabindex="-1" class="0">
+<span class="title">Lehdist&ouml;tiedotteet</span>
+</a>
+</li>
+</ul></div>
+<div class="dropdown-col latest">
+<span class="vignette"></span>
+<ul></ul></div>
+</div>
+</li>
+<li class="omaraha hide-small  item-level-one">
+<div class="title">
+<a href="//www.is.fi/taloussanomat/oma-raha/" class="title first-class-title" navigation_id="5">Oma raha</a>
+</div>
+</li>
+</ul></nav><script>
+window.tailCallbacks.queue(function() {
+window.Navigation.init();
+});
+</script><div class="sub-header">
+<h1 class="section-title"><a href="taloussanomat/osinkokalenteri/">OSINKOKALENTERI</a></h1>
+</div>
+</div>
+</div>
+<div class="block hide-if-no-ad sadblob-loading" aria-hidden="true">
+<script>
+if (typeof performance !== 'undefined' && typeof performance.mark === 'function') {
+performance.mark("top_ad_before");
+}
+</script><div data-ad-position="top" class="ad centered">
+<script type="text/javascript">
+try {
+sanomaAd.render('top');
+}
+catch (err) {
+try { sanomaAd.log(err); } catch (err2) { console.log(err); }
+}
+</script></div>
+<script>
+if (typeof performance !== 'undefined' && typeof performance.mark === 'function') {
+performance.mark("top_ad_after");
+}
+</script><script>
+if (typeof performance !== 'undefined' && typeof performance.measure === 'function') {
+performance.measure("top_ad", "top_ad_before", "top_ad_after");
+}
+</script></div>
+</div>
+</div>
+<div class="content-wrapper ">
+<div class="giant-teasers-wrapper">
+<div class="block full-width-978 ">
+<div class="embedded" data-html-asset-id="30279">
+	<section class="companydata companydata__search-column">
+		<div class="companydata__headline__container"><h2 class="companydata__headline">Hae yrityksiä</h2></div>
+		<form class="companydata__search " action="/yritykset/haku/" method="GET">
+	<div class="companydata__search__container">
+		<h3 class="companydata__subheadline asiakastieto__logo__negative">Hae yritystä</h3>
+		<div class="companydata__search__field" role="search">
+			<input class="companydata__search__input" type="search" name="haku" value="" placeholder="Yrityksen nimi tai y-tunnus" title="Anna vähintään kaksi merkkiä" autocomplete="off" pattern=".{2,}" required>
+
+			<button class="companydata__search__button" type="submit" value="Hae" aria-label="Hae">
+				<i class="fa fa-search fa-2x"></i>
+			</button>
+		</div>
+		<div class="companydata__search__links">
+			<ul>
+				<li><a href="https://www.is.fi/yritykset/protestit/">Protestit</a></li>
+				<li><a href="https://www.is.fi/yritykset/uudet/">Uudet yritykset</a></li>
+				<li><a href="https://www.is.fi/yritykset/rating-muutokset/">Rating-muutokset</a></li>
+				<li><a href="https://www.is.fi/yritykset/talouden-tunnusluvut/">Talouden tunnusluvut</a></li>
+				<li><a href="https://www.is.fi/yritykset/kalenteri/">Talouskalenteri</a></li>				
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+</form>	</section>
+	</div>
+</div>
+</div>
+</div>
+<div class="content-wrapper ">
+<div class="giant-teasers-wrapper">
+<div class="block full-width-978 ">
+<div class="embedded" data-html-asset-id="30278">
+	
+	<section class="companydata companydata__dividend-calendar">
+
+		<h1 class="companydata__headline">Osinkokalenteri 2020</h1>
+		
+		<p>Taulukko sisältää <a href="/taloussanomat/porssi/osakkeet/">Nasdaq Helsinkiin listattujen yhtiöiden</a> tuoreimmat osinkotiedot ja tulosjulkistusajankohdat. Aikaisempien vuosien osinkotiedot löytyvät klikkaamalla yhtiön nimilinkkiä.</p>
+
+				
+		<div class="companydata__tabs">
+		<ul>
+								<li  class="active "><a href="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2020/">Osinkokalenteri</a></li>
+								<li  class=""><a href="https://www.is.fi/taloussanomat/osinkokalenteri/tulosjulkistukset/2020/">Tulosjulkistukset</a></li>
+					</ul>
+	</div>
+
+
+					<div class="companydata__dropdown companydata__dropdown__right">
+	<div label="&nbsp;">
+	<select id="year-selector" name="year_url"><option value="">Valitse vuosi</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2022/">2022</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2021/">2021</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2020/" selected="selected">2020</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2019/">2019</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2018/">2018</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2017/">2017</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2016/">2016</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2015/">2015</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2014/">2014</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2013/">2013</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2012/">2012</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2011/">2011</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2010/">2010</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2009/">2009</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2008/">2008</option><option value="https://www.is.fi/taloussanomat/osinkokalenteri/vuosi/2007/">2007</option></select>
+	<i class="fa fa-chevron-down" aria-hidden="true"></i>
+	</div>
+</div>
+
+			
+
+		<table class="companydata__table sortable js-dividend-table">
+<thead>
+	<tr>
+		<th class="text fa-sort-up"><a href="#" class="sortable text fa-sort-up" title="">Yritys<i class="fa fa-sort"></i></a></th>	<th class="date"><a href="#" class="sortable date" title="Osingon irtoamispäivä">Osinko irtoaa<i class="fa fa-sort"></i></a></th>	<th class="date"><a href="#" class="sortable date" title="Täsmäytyspäivä">Täsmäytys<i class="fa fa-sort"></i></a></th>	<th class="date"><a href="#" class="sortable date" title="Maksupäivä">Maksu<i class="fa fa-sort"></i></a></th>	<th class="currency"><a href="#" class="sortable currency" title="Sisältää lisäosingon ja pääoman palautuksen">Osinko<i class="fa fa-sort"></i></a></th>	<th class="status_color"><a href="#" class="sortable status_color" title="">Tila<i class="fa fa-sort"></i></a></th>	<th class="date"><a href="#" class="sortable date" title="Tietoja päivitetty viimeksi">Päivitetty<i class="fa fa-sort"></i></a></th>	
+	</tr>
+</thead>
+<thead>
+	<tr>
+		<th><select name="table_sort" class="companydata__table__sort"><option value="0,0" selected>Yritys ↑</option><option value="0,1">Yritys ↓</option><option value="1,0" >Osinko irtoaa ↑</option><option value="1,1">Osinko irtoaa ↓</option><option value="2,0" >Täsmäytys ↑</option><option value="2,1">Täsmäytys ↓</option><option value="3,0" >Maksu ↑</option><option value="3,1">Maksu ↓</option><option value="4,0" >Osinko ↑</option><option value="4,1">Osinko ↓</option><option value="5,0" >Tila ↑</option><option value="5,1">Tila ↓</option><option value="6,0" >Päivitetty ↑</option><option value="6,1">Päivitetty ↓</option></select><i class="fa fa-chevron-down" aria-hidden="true"></i></th>	
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/aallon-group/aallon/">Aallon Group</a></td>	<td class=" date" label="Osinko irtoaa">11.6.2020</td>	<td class=" date" label="Täsmäytys">12.6.2020</td>	<td class=" date" label="Maksu">23.6.2020</td>	<td class=" currency" label="Osinko">0,1800 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">10.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/admicom/admcm/">Admicom</a></td>	<td class=" date" label="Osinko irtoaa">3.2.2020</td>	<td class=" date" label="Täsmäytys">4.2.2020</td>	<td class=" date" label="Maksu">11.2.2020</td>	<td class=" currency" label="Osinko">0,7200 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">1.7.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/afarak/afagr/">Afarak</a></td>	<td class=" date" label="Osinko irtoaa">23.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">22.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/ahlstrom-munksjo/am1/">Ahlstrom-Munksjö</a></td>	<td class=" date" label="Osinko irtoaa">31.12.2020</td>	<td class=" date" label="Täsmäytys">4.1.2021</td>	<td class=" date" label="Maksu">11.1.2021</td>	<td class=" currency" label="Osinko">0,5200 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">30.12.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/aktia-pankki/aktia/">Aktia Pankki</a></td>	<td class=" date" label="Osinko irtoaa">12.1.2021</td>	<td class=" date" label="Täsmäytys">13.1.2021</td>	<td class=" date" label="Maksu">20.1.2021</td>	<td class=" currency" label="Osinko">0,5300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">28.1.2021</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/olandsbanken-a/albav/">Ålandsbanken A</a></td>	<td class=" date" label="Osinko irtoaa">-</td>	<td class=" date" label="Täsmäytys">5.1.2021</td>	<td class=" date" label="Maksu">12.1.2021</td>	<td class=" currency" label="Osinko">1,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">4.1.2021</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/olandsbanken-b/albbv/">Ålandsbanken B</a></td>	<td class=" date" label="Osinko irtoaa">-</td>	<td class=" date" label="Täsmäytys">5.1.2021</td>	<td class=" date" label="Maksu">12.1.2021</td>	<td class=" currency" label="Osinko">1,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">4.1.2021</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/alma-media/alma/">Alma Media </a></td>	<td class=" date" label="Osinko irtoaa">30.4.2020</td>	<td class=" date" label="Täsmäytys">4.5.2020</td>	<td class=" date" label="Maksu">11.5.2020</td>	<td class=" currency" label="Osinko">0,4000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">29.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/altia/altia/">Altia</a></td>	<td class=" date" label="Osinko irtoaa">5.6.2020</td>	<td class=" date" label="Täsmäytys">18.11.2020</td>	<td class=" date" label="Maksu">25.11.2020</td>	<td class=" currency" label="Osinko">0,4200 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">16.11.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/apetit/apetit/">Apetit</a></td>	<td class=" date" label="Osinko irtoaa">27.5.2020</td>	<td class=" date" label="Täsmäytys">28.5.2020</td>	<td class=" date" label="Maksu">4.6.2020</td>	<td class=" currency" label="Osinko">0,4500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">26.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/as-tallink-grupp/tallink/">AS Tallink Grupp</a></td>	<td class=" date" label="Osinko irtoaa">31.7.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">3.8.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/aspo/aspo/">Aspo</a></td>	<td class=" date" label="Osinko irtoaa">2.10.2020</td>	<td class=" date" label="Täsmäytys">5.10.2020</td>	<td class=" date" label="Maksu">12.10.2020</td>	<td class=" currency" label="Osinko">0,2200 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">5.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/aspocomp-group/acg1v/">Aspocomp Group </a></td>	<td class=" date" label="Osinko irtoaa">17.9.2020</td>	<td class=" date" label="Täsmäytys">18.9.2020</td>	<td class=" date" label="Maksu">25.9.2020</td>	<td class=" currency" label="Osinko">0,1500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">16.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/atria-a/atrav/">Atria A </a></td>	<td class=" date" label="Osinko irtoaa">30.4.2020</td>	<td class=" date" label="Täsmäytys">4.5.2020</td>	<td class=" date" label="Maksu">11.5.2020</td>	<td class=" currency" label="Osinko">0,4200 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">29.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/avidly/avidly/">Avidly</a></td>	<td class=" date" label="Osinko irtoaa">2.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">1.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/basware/bas1v/">Basware</a></td>	<td class=" date" label="Osinko irtoaa">5.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">4.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/bbs-bioactive-bone/boneh/">BBS-Bioactive Bone </a></td>	<td class=" date" label="Osinko irtoaa">18.8.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">17.8.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/bilot/bilot/">Bilot</a></td>	<td class=" date" label="Osinko irtoaa">-</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">-</td>	<td class=" status_color" label="Tila"><a title="Ei tiedossa" class="UNKNOWN">Ei tiedossa</a></td>	<td class=" date" label="Päivitetty">17.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/biohit-b/biobv/">Biohit B</a></td>	<td class=" date" label="Osinko irtoaa">17.9.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">16.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/bittium/bitti/">Bittium</a></td>	<td class=" date" label="Osinko irtoaa">16.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">15.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/boreo/boreo/">Boreo</a></td>	<td class=" date" label="Osinko irtoaa">17.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">16.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/capman/capman/">CapMan </a></td>	<td class=" date" label="Osinko irtoaa">12.3.2020</td>	<td class=" date" label="Täsmäytys">13.3.2020</td>	<td class=" date" label="Maksu">20.3.2020</td>	<td class=" currency" label="Osinko">0,1300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">11.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/cargotec/cgcbv/">Cargotec</a></td>	<td class=" date" label="Osinko irtoaa">28.5.2020</td>	<td class=" date" label="Täsmäytys">27.8.2020</td>	<td class=" date" label="Maksu">3.9.2020</td>	<td class=" currency" label="Osinko">1,2000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">25.8.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/caverion/cav1v/">Caverion</a></td>	<td class=" date" label="Osinko irtoaa">26.5.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">25.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/citycon/cty1s/">Citycon</a></td>	<td class=" date" label="Osinko irtoaa">18.3.2020</td>	<td class=" date" label="Täsmäytys">23.9.2020</td>	<td class=" date" label="Maksu">30.9.2020</td>	<td class=" currency" label="Osinko">0,6500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">21.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/componenta/cth1v/">Componenta </a></td>	<td class=" date" label="Osinko irtoaa">17.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">16.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/consti-yhtiot/consti/">Consti Yhtiöt</a></td>	<td class=" date" label="Osinko irtoaa">7.4.2020</td>	<td class=" date" label="Täsmäytys">8.4.2020</td>	<td class=" date" label="Maksu">17.4.2020</td>	<td class=" currency" label="Osinko">0,1600 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">6.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/detection-technology/detec/">Detection Technology</a></td>	<td class=" date" label="Osinko irtoaa">17.4.2020</td>	<td class=" date" label="Täsmäytys">20.4.2020</td>	<td class=" date" label="Maksu">27.4.2020</td>	<td class=" currency" label="Osinko">0,3800 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">16.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/digia/digia/">Digia</a></td>	<td class=" date" label="Osinko irtoaa">17.3.2020</td>	<td class=" date" label="Täsmäytys">18.3.2020</td>	<td class=" date" label="Maksu">25.3.2020</td>	<td class=" currency" label="Osinko">0,1000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">16.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/digitalist-group/digigr/">Digitalist Group</a></td>	<td class=" date" label="Osinko irtoaa">15.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">14.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/dovre-group/dov1v/">Dovre Group</a></td>	<td class=" date" label="Osinko irtoaa">29.4.2020</td>	<td class=" date" label="Täsmäytys">2.11.2020</td>	<td class=" date" label="Maksu">10.11.2020</td>	<td class=" currency" label="Osinko">0,0100 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/eab-group/eab/">Eab Group</a></td>	<td class=" date" label="Osinko irtoaa">23.9.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">22.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/eezy/eezy/">Eezy</a></td>	<td class=" date" label="Osinko irtoaa">22.4.2020</td>	<td class=" date" label="Täsmäytys">12.11.2020</td>	<td class=" date" label="Maksu">20.11.2020</td>	<td class=" currency" label="Osinko">0,1000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">10.11.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/efecte/efecte/">Efecte</a></td>	<td class=" date" label="Osinko irtoaa">23.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">22.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/elecster/eleav/">Elecster </a></td>	<td class=" date" label="Osinko irtoaa">24.4.2020</td>	<td class=" date" label="Täsmäytys">27.4.2020</td>	<td class=" date" label="Maksu">5.5.2020</td>	<td class=" currency" label="Osinko">0,2300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">23.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/elisa/elisa/">Elisa</a></td>	<td class=" date" label="Osinko irtoaa">3.4.2020</td>	<td class=" date" label="Täsmäytys">6.4.2020</td>	<td class=" date" label="Maksu">15.4.2020</td>	<td class=" currency" label="Osinko">1,8500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">2.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/endomines/endom/">Endomines</a></td>	<td class=" date" label="Osinko irtoaa">30.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.11.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/enedo/enedo/">Enedo</a></td>	<td class=" date" label="Osinko irtoaa">27.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">24.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/enento-group/enento/">Enento Group</a></td>	<td class=" date" label="Osinko irtoaa">9.11.2020</td>	<td class=" date" label="Täsmäytys">10.11.2020</td>	<td class=" date" label="Maksu">26.11.2020</td>	<td class=" currency" label="Osinko">0,9500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">6.11.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/enersense-international/esense/">Enersense International</a></td>	<td class=" date" label="Osinko irtoaa">7.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">25.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/eq/eqv1v/">EQ </a></td>	<td class=" date" label="Osinko irtoaa">26.3.2020</td>	<td class=" date" label="Täsmäytys">27.3.2020</td>	<td class=" date" label="Maksu">3.4.2020</td>	<td class=" currency" label="Osinko">0,6200 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">25.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/etteplan/ette/">Etteplan </a></td>	<td class=" date" label="Osinko irtoaa">3.4.2020</td>	<td class=" date" label="Täsmäytys">6.4.2020</td>	<td class=" date" label="Maksu">15.4.2020</td>	<td class=" currency" label="Osinko">0,3500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">2.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/evli-pankki/evli/">Evli Pankki</a></td>	<td class=" date" label="Osinko irtoaa">10.3.2020</td>	<td class=" date" label="Täsmäytys">11.3.2020</td>	<td class=" date" label="Maksu">18.3.2020</td>	<td class=" currency" label="Osinko">0,6600 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">9.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/exel-composites/exl1v/">Exel Composites</a></td>	<td class=" date" label="Osinko irtoaa">23.3.2020</td>	<td class=" date" label="Täsmäytys">24.3.2020</td>	<td class=" date" label="Maksu">31.3.2020</td>	<td class=" currency" label="Osinko">0,1800 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">20.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/f-secure/fsc1v/">F-Secure</a></td>	<td class=" date" label="Osinko irtoaa">13.5.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">13.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/faron-pharmaceuticals/faron/">Faron Pharmaceuticals</a></td>	<td class=" date" label="Osinko irtoaa">19.5.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">18.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/fellow-finance/fellow/">Fellow Finance</a></td>	<td class=" date" label="Osinko irtoaa">18.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">17.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/finnair/fia1s/">Finnair</a></td>	<td class=" date" label="Osinko irtoaa">1.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">12.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/fiskars/fskrs/">Fiskars </a></td>	<td class=" date" label="Osinko irtoaa">9.9.2020</td>	<td class=" date" label="Täsmäytys">10.9.2020</td>	<td class=" date" label="Maksu">17.9.2020</td>	<td class=" currency" label="Osinko">0,5600 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">8.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/fodelia/fodelia/">Fodelia</a></td>	<td class=" date" label="Osinko irtoaa">28.4.2020</td>	<td class=" date" label="Täsmäytys">29.4.2020</td>	<td class=" date" label="Maksu">7.5.2020</td>	<td class=" currency" label="Osinko">0,0700 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/fondia/fondia/">Fondia</a></td>	<td class=" date" label="Osinko irtoaa">28.4.2020</td>	<td class=" date" label="Täsmäytys">29.4.2020</td>	<td class=" date" label="Maksu">7.5.2020</td>	<td class=" currency" label="Osinko">0,2600 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/fortum/fortum/">Fortum</a></td>	<td class=" date" label="Osinko irtoaa">24.4.2020</td>	<td class=" date" label="Täsmäytys">27.4.2020</td>	<td class=" date" label="Maksu">5.5.2020</td>	<td class=" currency" label="Osinko">1,1000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">23.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/glaston/gla1v/">Glaston</a></td>	<td class=" date" label="Osinko irtoaa">29.5.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">28.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/gofore/gofore/">Gofore</a></td>	<td class=" date" label="Osinko irtoaa">30.4.2020</td>	<td class=" date" label="Täsmäytys">4.5.2020</td>	<td class=" date" label="Maksu">11.5.2020</td>	<td class=" currency" label="Osinko">0,2000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">30.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/harvia/harvia/">Harvia</a></td>	<td class=" date" label="Osinko irtoaa">19.10.2020</td>	<td class=" date" label="Täsmäytys">20.10.2020</td>	<td class=" date" label="Maksu">27.10.2020</td>	<td class=" currency" label="Osinko">0,3800 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">16.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/heeros/heeros/">Heeros</a></td>	<td class=" date" label="Osinko irtoaa">25.3.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">25.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/herantis-pharma/hrtis/">Herantis Pharma</a></td>	<td class=" date" label="Osinko irtoaa">9.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">8.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/hkscan/hksav/">HKScan </a></td>	<td class=" date" label="Osinko irtoaa">11.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">10.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/honkarakenne/honbs/">Honkarakenne </a></td>	<td class=" date" label="Osinko irtoaa">1.6.2020</td>	<td class=" date" label="Täsmäytys">2.6.2020</td>	<td class=" date" label="Maksu">9.6.2020</td>	<td class=" currency" label="Osinko">0,1200 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">29.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/huhtamaki/huh1v/">Huhtamäki</a></td>	<td class=" date" label="Osinko irtoaa">30.4.2020</td>	<td class=" date" label="Täsmäytys">18.9.2020</td>	<td class=" date" label="Maksu">25.9.2020</td>	<td class=" currency" label="Osinko">0,8900 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">25.11.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/ilkka-yhtyma-1/ilk1s/">Ilkka-Yhtymä 1</a></td>	<td class=" date" label="Osinko irtoaa">11.6.2020</td>	<td class=" date" label="Täsmäytys">12.6.2020</td>	<td class=" date" label="Maksu">22.6.2020</td>	<td class=" currency" label="Osinko">0,2000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">10.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/ilkka-yhtyma-2/ilk2s/">Ilkka-Yhtymä 2</a></td>	<td class=" date" label="Osinko irtoaa">11.6.2020</td>	<td class=" date" label="Täsmäytys">12.6.2020</td>	<td class=" date" label="Maksu">22.6.2020</td>	<td class=" currency" label="Osinko">0,2000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">10.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/incap/icp1v/">Incap</a></td>	<td class=" date" label="Osinko irtoaa">21.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">21.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/innofactor/ifa1v/">Innofactor </a></td>	<td class=" date" label="Osinko irtoaa">1.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">31.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/investors-house/invest/">Investors House</a></td>	<td class=" date" label="Osinko irtoaa">29.4.2020</td>	<td class=" date" label="Täsmäytys">19.8.2020</td>	<td class=" date" label="Maksu">26.8.2020</td>	<td class=" currency" label="Osinko">0,2500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">17.8.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/kamux/kamux/">Kamux</a></td>	<td class=" date" label="Osinko irtoaa">22.4.2020</td>	<td class=" date" label="Täsmäytys">23.10.2020</td>	<td class=" date" label="Maksu">30.10.2020</td>	<td class=" currency" label="Osinko">0,2300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">29.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/kemira/kemira/">Kemira</a></td>	<td class=" date" label="Osinko irtoaa">6.5.2020</td>	<td class=" date" label="Täsmäytys">29.10.2020</td>	<td class=" date" label="Maksu">5.11.2020</td>	<td class=" currency" label="Osinko">0,5600 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/keskisuomalainen/kslav/">Keskisuomalainen </a></td>	<td class=" date" label="Osinko irtoaa">1.6.2020</td>	<td class=" date" label="Täsmäytys">26.10.2020</td>	<td class=" date" label="Maksu">2.11.2020</td>	<td class=" currency" label="Osinko">0,7500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">23.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/kesko-a/keskoa/">Kesko A</a></td>	<td class=" date" label="Osinko irtoaa">29.4.2020</td>	<td class=" date" label="Täsmäytys">1.10.2020</td>	<td class=" date" label="Maksu">8.10.2020</td>	<td class=" currency" label="Osinko">0,6300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">25.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/kesko-b/keskob/">Kesko B</a></td>	<td class=" date" label="Osinko irtoaa">29.4.2020</td>	<td class=" date" label="Täsmäytys">1.10.2020</td>	<td class=" date" label="Maksu">8.10.2020</td>	<td class=" currency" label="Osinko">0,6300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">25.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/kesla-a/kelas/">Kesla A</a></td>	<td class=" date" label="Osinko irtoaa">6.3.2020</td>	<td class=" date" label="Täsmäytys">9.3.2020</td>	<td class=" date" label="Maksu">16.3.2020</td>	<td class=" currency" label="Osinko">0,1500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">5.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/kojamo/kojamo/">Kojamo</a></td>	<td class=" date" label="Osinko irtoaa">13.3.2020</td>	<td class=" date" label="Täsmäytys">16.3.2020</td>	<td class=" date" label="Maksu">2.4.2020</td>	<td class=" currency" label="Osinko">0,3400 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">12.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/kone-b/knebv/">KONE B</a></td>	<td class=" date" label="Osinko irtoaa">26.2.2020</td>	<td class=" date" label="Täsmäytys">27.2.2020</td>	<td class=" date" label="Maksu">5.3.2020</td>	<td class=" currency" label="Osinko">1,7000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">25.2.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/konecranes/kcr/">Konecranes</a></td>	<td class=" date" label="Osinko irtoaa">12.6.2020</td>	<td class=" date" label="Täsmäytys">18.8.2020</td>	<td class=" date" label="Maksu">26.8.2020</td>	<td class=" currency" label="Osinko">1,2000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">17.8.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/lassilatikanoja/lat1v/">Lassila&Tikanoja</a></td>	<td class=" date" label="Osinko irtoaa">13.3.2020</td>	<td class=" date" label="Täsmäytys">16.3.2020</td>	<td class=" date" label="Maksu">23.3.2020</td>	<td class=" currency" label="Osinko">0,9200 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">12.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/leaddesk/leadd/">LeadDesk</a></td>	<td class=" date" label="Osinko irtoaa">31.3.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">30.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/lehto-group/lehto/">Lehto Group</a></td>	<td class=" date" label="Osinko irtoaa">15.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">14.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/loudspring/loud/">Loudspring</a></td>	<td class=" date" label="Osinko irtoaa">4.8.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">3.8.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/marimekko/mekko/">Marimekko</a></td>	<td class=" date" label="Osinko irtoaa">19.2.2021</td>	<td class=" date" label="Täsmäytys">22.2.2021</td>	<td class=" date" label="Maksu">1.3.2021</td>	<td class=" currency" label="Osinko">0,9000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">18.2.2021</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/martela/maras/">Martela </a></td>	<td class=" date" label="Osinko irtoaa">13.3.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">12.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/metsa-board-a/metsa/">Metsä Board A</a></td>	<td class=" date" label="Osinko irtoaa">12.6.2020</td>	<td class=" date" label="Täsmäytys">15.6.2020</td>	<td class=" date" label="Maksu">24.6.2020</td>	<td class=" currency" label="Osinko">0,2400 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">11.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/metsa-board-b/metsb/">Metsä Board B</a></td>	<td class=" date" label="Osinko irtoaa">12.6.2020</td>	<td class=" date" label="Täsmäytys">15.6.2020</td>	<td class=" date" label="Maksu">24.6.2020</td>	<td class=" currency" label="Osinko">0,2400 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">11.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/metso-outotec/mocorp/">Metso Outotec </a></td>	<td class=" date" label="Osinko irtoaa">12.3.2020</td>	<td class=" date" label="Täsmäytys">13.3.2020</td>	<td class=" date" label="Maksu">31.3.2020</td>	<td class=" currency" label="Osinko">0,1000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">11.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/musti-group/musti/">Musti Group</a></td>	<td class=" date" label="Osinko irtoaa">-</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">-</td>	<td class=" status_color" label="Tila"><a title="Ehdotettu" class="PROPOSED">Ehdotettu</a></td>	<td class=" date" label="Päivitetty">20.1.2021</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/neles/neles/">Neles</a></td>	<td class=" date" label="Osinko irtoaa">17.6.2020</td>	<td class=" date" label="Täsmäytys">18.6.2020</td>	<td class=" date" label="Maksu">25.6.2020</td>	<td class=" currency" label="Osinko">1,4700 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">2.7.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/neste/neste/">Neste</a></td>	<td class=" date" label="Osinko irtoaa">19.5.2020</td>	<td class=" date" label="Täsmäytys">20.5.2020</td>	<td class=" date" label="Maksu">26.10.2020</td>	<td class=" currency" label="Osinko">1,0200 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">22.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/nexstim/nxtmh/">Nexstim</a></td>	<td class=" date" label="Osinko irtoaa">4.5.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">30.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/next-games/nxtgms/">Next Games</a></td>	<td class=" date" label="Osinko irtoaa">28.5.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/nixu/nixu/">Nixu</a></td>	<td class=" date" label="Osinko irtoaa">8.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">7.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/noho-partners/noho/">NoHo Partners</a></td>	<td class=" date" label="Osinko irtoaa">17.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">16.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/nokia/nokia/">Nokia</a></td>	<td class=" date" label="Osinko irtoaa">28.5.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/nokian-renkaat/tyres/">Nokian Renkaat</a></td>	<td class=" date" label="Osinko irtoaa">3.4.2020</td>	<td class=" date" label="Täsmäytys">29.10.2020</td>	<td class=" date" label="Maksu">9.12.2020</td>	<td class=" currency" label="Osinko">1,1400 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/nordea-bank/nda%20fi/">Nordea Bank</a></td>	<td class=" date" label="Osinko irtoaa">29.5.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">4.2.2021</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/nordic-id/nordid/">Nordic ID</a></td>	<td class=" date" label="Osinko irtoaa">28.5.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/nurminen-logistics/nlg1v/">Nurminen Logistics </a></td>	<td class=" date" label="Osinko irtoaa">15.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">15.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/olvi/olvas/">Olvi </a></td>	<td class=" date" label="Osinko irtoaa">9.4.2020</td>	<td class=" date" label="Täsmäytys">1.9.2020</td>	<td class=" date" label="Maksu">8.9.2020</td>	<td class=" currency" label="Osinko">1,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">28.8.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/oma-saastopankki/omasp/">Oma Säästöpankki</a></td>	<td class=" date" label="Osinko irtoaa">29.1.2021</td>	<td class=" date" label="Täsmäytys">1.2.2021</td>	<td class=" date" label="Maksu">8.2.2021</td>	<td class=" currency" label="Osinko">0,1300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">29.1.2021</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/optomed/optomed/">Optomed</a></td>	<td class=" date" label="Osinko irtoaa">12.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">11.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/oriola-a/okdav/">Oriola A</a></td>	<td class=" date" label="Osinko irtoaa">18.3.2020</td>	<td class=" date" label="Täsmäytys">19.3.2020</td>	<td class=" date" label="Maksu">15.4.2020</td>	<td class=" currency" label="Osinko">0,0900 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">17.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/oriola-b/okdbv/">Oriola B</a></td>	<td class=" date" label="Osinko irtoaa">18.3.2020</td>	<td class=" date" label="Täsmäytys">19.3.2020</td>	<td class=" date" label="Maksu">15.4.2020</td>	<td class=" currency" label="Osinko">0,0900 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">17.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/orion-a/ornav/">Orion  A</a></td>	<td class=" date" label="Osinko irtoaa">7.5.2020</td>	<td class=" date" label="Täsmäytys">8.5.2020</td>	<td class=" date" label="Maksu">15.5.2020</td>	<td class=" currency" label="Osinko">1,5000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">6.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/orion-b/ornbv/">Orion  B</a></td>	<td class=" date" label="Osinko irtoaa">7.5.2020</td>	<td class=" date" label="Täsmäytys">8.5.2020</td>	<td class=" date" label="Maksu">15.5.2020</td>	<td class=" currency" label="Osinko">1,5000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">6.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/outokumpu/out1v/">Outokumpu</a></td>	<td class=" date" label="Osinko irtoaa">29.5.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">28.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/ovaro-kiinteistosijoitus/ovaro/">Ovaro Kiinteistösijoitus</a></td>	<td class=" date" label="Osinko irtoaa">10.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">9.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/panostaja/pna1v/">Panostaja</a></td>	<td class=" date" label="Osinko irtoaa">8.2.2021</td>	<td class=" date" label="Täsmäytys">9.2.2021</td>	<td class=" date" label="Maksu">16.2.2021</td>	<td class=" currency" label="Osinko">0,0300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">5.2.2021</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/pihlajalinna/pihlis/">Pihlajalinna</a></td>	<td class=" date" label="Osinko irtoaa">16.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">15.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/piippo/piippo/">Piippo</a></td>	<td class=" date" label="Osinko irtoaa">5.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">4.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/ponsse-1/pon1v/">Ponsse 1</a></td>	<td class=" date" label="Osinko irtoaa">28.5.2020</td>	<td class=" date" label="Täsmäytys">29.5.2020</td>	<td class=" date" label="Maksu">5.6.2020</td>	<td class=" currency" label="Osinko">0,3000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/privanet-group/priva/">Privanet Group</a></td>	<td class=" date" label="Osinko irtoaa">6.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">3.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/punamusta-media/puna/">PunaMusta Media</a></td>	<td class=" date" label="Osinko irtoaa">30.3.2020</td>	<td class=" date" label="Täsmäytys">31.3.2020</td>	<td class=" date" label="Maksu">7.4.2020</td>	<td class=" currency" label="Osinko">0,2500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/qpr-software/qpr1v/">QPR Software</a></td>	<td class=" date" label="Osinko irtoaa">9.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">8.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/qt-group/qtcom/">QT Group</a></td>	<td class=" date" label="Osinko irtoaa">11.3.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">10.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/raisio-k/raikv/">Raisio K</a></td>	<td class=" date" label="Osinko irtoaa">28.4.2020</td>	<td class=" date" label="Täsmäytys">29.4.2020</td>	<td class=" date" label="Maksu">7.5.2020</td>	<td class=" currency" label="Osinko">0,1300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/raisio-v/raivv/">Raisio V</a></td>	<td class=" date" label="Osinko irtoaa">28.4.2020</td>	<td class=" date" label="Täsmäytys">29.4.2020</td>	<td class=" date" label="Maksu">7.5.2020</td>	<td class=" currency" label="Osinko">0,1300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">27.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/rapala-vmc/rap1v/">Rapala VMC </a></td>	<td class=" date" label="Osinko irtoaa">27.3.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">12.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/raute/raute/">Raute </a></td>	<td class=" date" label="Osinko irtoaa">1.4.2020</td>	<td class=" date" label="Täsmäytys">2.4.2020</td>	<td class=" date" label="Maksu">9.4.2020</td>	<td class=" currency" label="Osinko">1,4500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">31.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/reka-industrial/reka/">Reka Industrial </a></td>	<td class=" date" label="Osinko irtoaa">25.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">24.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/relais-group/relais/">Relais Group</a></td>	<td class=" date" label="Osinko irtoaa">9.9.2020</td>	<td class=" date" label="Täsmäytys">10.9.2020</td>	<td class=" date" label="Maksu">17.9.2020</td>	<td class=" currency" label="Osinko">0,1000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">14.8.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/remedy-entertainment/remedy/">Remedy Entertainment</a></td>	<td class=" date" label="Osinko irtoaa">7.4.2020</td>	<td class=" date" label="Täsmäytys">8.4.2020</td>	<td class=" date" label="Maksu">20.4.2020</td>	<td class=" currency" label="Osinko">0,1100 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">6.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/revenio-group/reg1v/">Revenio Group</a></td>	<td class=" date" label="Osinko irtoaa">9.6.2020</td>	<td class=" date" label="Täsmäytys">10.6.2020</td>	<td class=" date" label="Maksu">17.6.2020</td>	<td class=" currency" label="Osinko">0,3000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">8.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/robit/robit/">Robit</a></td>	<td class=" date" label="Osinko irtoaa">23.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">22.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/rovio-entertainment/rovio/">Rovio Entertainment</a></td>	<td class=" date" label="Osinko irtoaa">1.4.2020</td>	<td class=" date" label="Täsmäytys">2.4.2020</td>	<td class=" date" label="Maksu">9.4.2020</td>	<td class=" currency" label="Osinko">0,0900 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">31.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/rush-factory/rush/">Rush Factory</a></td>	<td class=" date" label="Osinko irtoaa">29.9.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">25.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/saga-furs/sagcv/">Saga Furs</a></td>	<td class=" date" label="Osinko irtoaa">30.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">29.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/sampo/sampo/">Sampo </a></td>	<td class=" date" label="Osinko irtoaa">3.6.2020</td>	<td class=" date" label="Täsmäytys">4.6.2020</td>	<td class=" date" label="Maksu">11.6.2020</td>	<td class=" currency" label="Osinko">1,5000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">2.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/sanoma/saa1v/">Sanoma</a></td>	<td class=" date" label="Osinko irtoaa">26.3.2020</td>	<td class=" date" label="Täsmäytys">30.10.2020</td>	<td class=" date" label="Maksu">6.11.2020</td>	<td class=" currency" label="Osinko">0,5000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">29.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/savosolar/savoh/">Savosolar</a></td>	<td class=" date" label="Osinko irtoaa">28.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">7.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/scanfil/scanfl/">Scanfil</a></td>	<td class=" date" label="Osinko irtoaa">24.4.2020</td>	<td class=" date" label="Täsmäytys">27.4.2020</td>	<td class=" date" label="Maksu">5.5.2020</td>	<td class=" currency" label="Osinko">0,1500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">23.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/sievi-capital/sievi/">Sievi Capital </a></td>	<td class=" date" label="Osinko irtoaa">30.4.2020</td>	<td class=" date" label="Täsmäytys">4.5.2020</td>	<td class=" date" label="Maksu">15.5.2020</td>	<td class=" currency" label="Osinko">0,0400 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">29.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/siili-solutions/siili/">Siili Solutions</a></td>	<td class=" date" label="Osinko irtoaa">12.8.2020</td>	<td class=" date" label="Täsmäytys">13.8.2020</td>	<td class=" date" label="Maksu">20.8.2020</td>	<td class=" currency" label="Osinko">0,2600 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">11.8.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/solteq/solteq/">Solteq </a></td>	<td class=" date" label="Osinko irtoaa">11.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">10.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/soprano/sopra/">Soprano</a></td>	<td class=" date" label="Osinko irtoaa">18.9.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">17.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/sotkamo-silver/sosi1/">Sotkamo Silver</a></td>	<td class=" date" label="Osinko irtoaa">3.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">2.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/srv-yhtiot/srv1v/">SRV Yhtiöt</a></td>	<td class=" date" label="Osinko irtoaa">27.3.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">26.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/ssab-a/ssabah/">SSAB A</a></td>	<td class=" date" label="Osinko irtoaa">2.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">1.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/ssab-b/ssabbh/">SSAB B</a></td>	<td class=" date" label="Osinko irtoaa">2.4.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">1.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/ssh-communications-security/ssh1v/">SSH Communications Security</a></td>	<td class=" date" label="Osinko irtoaa">27.3.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">26.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/stockmann/stocka/">Stockmann </a></td>	<td class=" date" label="Osinko irtoaa">5.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">4.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/stora-enso-a/steav/">Stora Enso A</a></td>	<td class=" date" label="Osinko irtoaa">5.6.2020</td>	<td class=" date" label="Täsmäytys">10.12.2020</td>	<td class=" date" label="Maksu">17.12.2020</td>	<td class=" currency" label="Osinko">0,3000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">8.12.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/stora-enso-r/sterv/">Stora Enso R</a></td>	<td class=" date" label="Osinko irtoaa">5.6.2020</td>	<td class=" date" label="Täsmäytys">10.12.2020</td>	<td class=" date" label="Maksu">17.12.2020</td>	<td class=" currency" label="Osinko">0,3000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">8.12.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/suominen/suy1v/">Suominen </a></td>	<td class=" date" label="Osinko irtoaa">20.3.2020</td>	<td class=" date" label="Täsmäytys">23.3.2020</td>	<td class=" date" label="Maksu">3.4.2020</td>	<td class=" currency" label="Osinko">0,0500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">12.8.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/taaleri/taala/">Taaleri</a></td>	<td class=" date" label="Osinko irtoaa">19.5.2020</td>	<td class=" date" label="Täsmäytys">20.5.2020</td>	<td class=" date" label="Maksu">28.5.2020</td>	<td class=" currency" label="Osinko">0,1600 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">18.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/talenom/tnom/">Talenom</a></td>	<td class=" date" label="Osinko irtoaa">26.2.2020</td>	<td class=" date" label="Täsmäytys">27.2.2020</td>	<td class=" date" label="Maksu">5.3.2020</td>	<td class=" currency" label="Osinko">0,1250 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">26.2.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/tecnotree/tem1v/">Tecnotree</a></td>	<td class=" date" label="Osinko irtoaa">11.9.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">10.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/teleste/tlt1v/">Teleste </a></td>	<td class=" date" label="Osinko irtoaa">23.4.2020</td>	<td class=" date" label="Täsmäytys">25.11.2020</td>	<td class=" date" label="Maksu">3.12.2020</td>	<td class=" currency" label="Osinko">0,1000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">24.11.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/telia-company/telia1/">Telia Company</a></td>	<td class=" date" label="Osinko irtoaa">3.4.2020</td>	<td class=" date" label="Täsmäytys">6.4.2020</td>	<td class=" date" label="Maksu">9.4.2020</td>	<td class=" currency" label="Osinko">0,2250 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">6.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/terveystalo/ttalo/">Terveystalo</a></td>	<td class=" date" label="Osinko irtoaa">29.5.2020</td>	<td class=" date" label="Täsmäytys">2.7.2020</td>	<td class=" date" label="Maksu">9.7.2020</td>	<td class=" currency" label="Osinko">0,1300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">30.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/tietoevry/tieto/">Tietoevry</a></td>	<td class=" date" label="Osinko irtoaa">30.4.2020</td>	<td class=" date" label="Täsmäytys">28.9.2020</td>	<td class=" date" label="Maksu">6.10.2020</td>	<td class=" currency" label="Osinko">0,6350 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">7.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/tikkurila/tik1v/">Tikkurila </a></td>	<td class=" date" label="Osinko irtoaa">10.6.2020</td>	<td class=" date" label="Täsmäytys">30.10.2020</td>	<td class=" date" label="Maksu">6.11.2020</td>	<td class=" currency" label="Osinko">0,5000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">29.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/titanium/titan/">Titanium</a></td>	<td class=" date" label="Osinko irtoaa">3.4.2020</td>	<td class=" date" label="Täsmäytys">6.4.2020</td>	<td class=" date" label="Maksu">15.4.2020</td>	<td class=" currency" label="Osinko">0,7200 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">2.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/tokmanni-group/tokman/">Tokmanni Group</a></td>	<td class=" date" label="Osinko irtoaa">8.5.2020</td>	<td class=" date" label="Täsmäytys">31.7.2020</td>	<td class=" date" label="Maksu">27.8.2020</td>	<td class=" currency" label="Osinko">0,6200 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">2.2.2021</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/trainers-house-plc/trh1v/">Trainers' House Plc</a></td>	<td class=" date" label="Osinko irtoaa">13.8.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">12.8.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/tulikivi-a/tulav/">Tulikivi A</a></td>	<td class=" date" label="Osinko irtoaa">17.6.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">16.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/united-bankers/united/">United  Bankers</a></td>	<td class=" date" label="Osinko irtoaa">1.4.2020</td>	<td class=" date" label="Täsmäytys">2.4.2020</td>	<td class=" date" label="Maksu">9.4.2020</td>	<td class=" currency" label="Osinko">0,4300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">31.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/upm/upm/">UPM</a></td>	<td class=" date" label="Osinko irtoaa">1.4.2020</td>	<td class=" date" label="Täsmäytys">2.4.2020</td>	<td class=" date" label="Maksu">16.4.2020</td>	<td class=" currency" label="Osinko">1,3000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">31.3.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/uponor/uponor/">Uponor</a></td>	<td class=" date" label="Osinko irtoaa">16.9.2020</td>	<td class=" date" label="Täsmäytys">17.9.2020</td>	<td class=" date" label="Maksu">24.9.2020</td>	<td class=" currency" label="Osinko">0,5300 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">16.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/uutechnic-group/uutec/">Uutechnic Group </a></td>	<td class=" date" label="Osinko irtoaa">1.7.2020</td>	<td class=" date" label="Täsmäytys">2.7.2020</td>	<td class=" date" label="Maksu">9.7.2020</td>	<td class=" currency" label="Osinko">0,0100 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">30.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/vaisala/vaias/">Vaisala </a></td>	<td class=" date" label="Osinko irtoaa">4.6.2020</td>	<td class=" date" label="Täsmäytys">5.6.2020</td>	<td class=" date" label="Maksu">12.6.2020</td>	<td class=" currency" label="Osinko">0,6100 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">3.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/valmet/valmt/">Valmet </a></td>	<td class=" date" label="Osinko irtoaa">17.6.2020</td>	<td class=" date" label="Täsmäytys">18.6.2020</td>	<td class=" date" label="Maksu">25.6.2020</td>	<td class=" currency" label="Osinko">0,8000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">16.6.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/valoe/valoe/">Valoe</a></td>	<td class=" date" label="Osinko irtoaa">29.5.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">29.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/verkkokauppacom/verk/">Verkkokauppa.com</a></td>	<td class=" date" label="Osinko irtoaa">1.4.2020</td>	<td class=" date" label="Täsmäytys">27.10.2020</td>	<td class=" date" label="Maksu">3.11.2020</td>	<td class=" currency" label="Osinko">0,2140 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">23.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/viafin-service/viafin/">Viafin Service</a></td>	<td class=" date" label="Osinko irtoaa">22.4.2020</td>	<td class=" date" label="Täsmäytys">23.4.2020</td>	<td class=" date" label="Maksu">30.4.2020</td>	<td class=" currency" label="Osinko">0,2500 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">21.4.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/viking-line/vik1v/">Viking Line</a></td>	<td class=" date" label="Osinko irtoaa">14.5.2020</td>	<td class=" date" label="Täsmäytys">-</td>	<td class=" date" label="Maksu">-</td>	<td class=" currency" label="Osinko">0,0000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">13.5.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/vincit/vincit/">Vincit</a></td>	<td class=" date" label="Osinko irtoaa">30.10.2020</td>	<td class=" date" label="Täsmäytys">2.11.2020</td>	<td class=" date" label="Maksu">11.11.2020</td>	<td class=" currency" label="Osinko">0,0700 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">29.10.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/wartsila/wrt1v/">Wärtsilä</a></td>	<td class=" date" label="Osinko irtoaa">9.9.2020</td>	<td class=" date" label="Täsmäytys">10.9.2020</td>	<td class=" date" label="Maksu">17.9.2020</td>	<td class=" currency" label="Osinko">0,4800 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">8.9.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/wulff/wuf1v/">Wulff</a></td>	<td class=" date" label="Osinko irtoaa">24.4.2020</td>	<td class=" date" label="Täsmäytys">3.11.2020</td>	<td class=" date" label="Maksu">11.11.2020</td>	<td class=" currency" label="Osinko">0,1100 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">2.11.2020</td>	
+	</tr>
+	<tr>
+		<td class="company text" label="Yritys"><a href="https://www.is.fi/taloussanomat/osinkokalenteri/yit/yit/">YIT </a></td>	<td class=" date" label="Osinko irtoaa">21.9.2020</td>	<td class=" date" label="Täsmäytys">22.9.2020</td>	<td class=" date" label="Maksu">6.10.2020</td>	<td class=" currency" label="Osinko">0,4000 €</td>	<td class=" status_color" label="Tila"><a title="Hyväksytty" class="ACCEPTED">Hyväksytty</a></td>	<td class=" date" label="Päivitetty">21.9.2020</td>	
+	</tr>
+</tbody>
+</table>
+		
+	    <div class="companydata__dividend-calendar__explanation">
+    <h3 class="companydata__subheadline">Osinko</h3>
+
+    <p>Osinko on osakeyhtiön voitonjakoa, josta säädetään osakeyhtiölaissa. Osake-yhtiölain mukaan oikeus osinkoon on osakkeenomistajalla, joka yhtiökokouksessa päätettynä osingon täsmäytyspäivänä on merkitty yhtiön osakkeenomistajaksi yhtiön osakasluetteloon. Käytännössä osingon saa osakkeenomistaja, joka ostaa tai omistaa osakkeen viimeistään yhtiökokouspäivänä. Tällöin ostaja on täsmäytyspäivänä kaupan selvitessä (kauppapäivä + kaksi selvityspäivää) merkitty osakkeenomistajaksi.</p>
+
+    <p>Osinkojen määrästä päättää yhtiökokous, jota varten johtokunta antaa ehdotuksensa sopivasta osinko-osuudesta. Yhtiökokous joko hyväksyy, hylkää tai muuttaa johtokunnan ehdotusta osingoista.</p>
+
+    <p>Yleensä osinkoja jaetaan osakeyhtiön tilinpäätöksen valmistuttua. Kaikkea tilikauden voittoa ei tavallisesti jaeta osakkeenomistajille osinkoina, vaan osa siitä jää taseeseen vahvistamaan yhtiön taloudellista asemaa. Osinko ilmoitetaan tavallisimmin tiettynä rahamääränä per osake. Osingon yhteydessä ilmoitetaan myös kuinka monta prosenttia osingon arvo on itse osakkeesta.</p>
+
+    <h3 class="companydata__subheadline">Osingon irtoamispäivä</h3>
+    <p>Osingon irtoamispäivä on yhtiökokousta seuraava päivä. Kansainvälisesti irtoamispäivä (ex-date) ei usein määräydy samalla tavalla kuin Suomessa. Jos osakkeen ostaja tekee kaupan osingon irtoamisen jälkeen, ei ostaja ole oikeutettu osinkoon (vaikka se olisi ennen täsmäytyspäivää). Osinko jää tällöin myyjälle.</p>
+
+    <h3 class="companydata__subheadline">Täsmäytyspäivä</h3>
+    <p>Täsmäytyspäivä on arvo-osuusjärjestelmässä päivä, jonka mukaisen omistajaluettelon perusteella määräytyvät oikeudet osinkoon, osakeantiin ja yhtiökokoukseen osallistumiseen. Täsmäytyspäivä voi olla aikaisintaan kolmas selvityspäivä yhtiökokouspäivän jälkeen.</p>
+
+    <h3 class="companydata__subheadline">Osingon maksupäivä</h3>
+    <p>Osingon maksupäivä on yhtiökokouksen päättämä päivä, jolloin osinko maksetaan. Suomessa se on yleensä kolmas pankkipäivä yhtiökokouksesta. Useat erityisesti kansainvälisen tai vilkkaan kaupankäynnin kohteena olevat yhtiöt määrittävät maksupäiväksi yleensä viidennen yhtiökokouksen jälkeisen päivän.</p>
+
+
+    <h3 class="companydata__subheadline">Osingon kasvuprosentti</h3>
+
+    <p>Osingon vuosittainen kasvuprosentti on taulukossa laskettu kaavalla (uusin osinko/lähtöosinko)^(1/vuosien määrä)-1 *100.
+    Kasvuprosentin laskennassa on aiempien vuosien osalta käytetty oikaistua osinkoa, jossa on huomioitu splitit, rahastoannit ja muut pääomatapahtumat.</p>
+
+    
+    <h3 class="companydata__subheadline">Pääoman palautus</h3>
+    <p>Pääoman palautus on osakeyhtiömuotoisen yrityksen tuotonjakotapa osakkeenomistajille, vastaavasti kuten osinko.</p>
+
+</div>
+	</section>
+</div>
+</div>
+</div>
+</div>
+</main><div class="side-ads-wrapper">
+<div data-ad-position="side01" class="ad">
+<script type="text/javascript">
+try {
+sanomaAd.render('side01');
+}
+catch (err) {
+try { sanomaAd.log(err); } catch (err2) { console.log(err); }
+}
+</script></div>
+</div>
+<footer class="main-footer"><script type="text/javascript">
+function openPrivacyManager () {
+if (window.utag && window.utag.link) {
+window.utag.link({event_name:'cmp_privacy_manager', event_action: 'show'})
+}
+}
+</script><div class="topbar">
+<h3>Iltasanomat</h3>
+<div class="back-to-top">
+<a href="#header">Takaisin sivun alkuun</a>
+</div>
+</div>
+<div class="inner">
+<section class="contact-info"><h4>Yhteystiedot</h4>
+<ul><li class="street-address">
+<span class="label">Katuosoite</span>
+<address>Sanomatalo<br>T&ouml;&ouml;l&ouml;nlahdenkatu 2, Helsinki</address>
+</li>
+<li class="postal-address">
+<span class="label">Postiosoite</span>
+<address>PL 45, 00089 SANOMA</address>
+</li>
+<li class="telephone">
+<span class="label">Puhelin</span>
+<span class="value">(09) 1221</span>
+</li>
+<li class="email">
+<span class="label">S&auml;hk&ouml;postiosoitteet</span>
+<span class="value">etunimi.sukunimi@iltasanomat.fi</span>
+</li>
+<li class="newstips">
+<span class="label">Uutisvihjeet</span>
+<span class="value">(09) 122 3420</span>
+<a href="mailto:uutiset@iltasanomat.fi">uutiset@iltasanomat.fi</a>
+</li>
+</ul></section><section class="ad-contact"><div class="ad">
+<a href="//www.is.fi/uutisvihje/">
+<p class="copy">Onko sinulla uutinen? Osuitko tapahtumapaikalle? Mit&auml; sosiaalisessa mediassa nyt jaetaan?</p>
+<p class="call-to-action">L&auml;het&auml; kuva tai uutisvinkki <span class="fa fa-angle-right"></span></p>
+</a>
+</div>
+</section><section class="sitemap"><h4>Sivukartta</h4>
+<nav><ul><li class="frontpage"><a href="//www.is.fi/">Etusivu</a></li>
+<li class="news"><a href="//www.is.fi/uutiset/">Uutiset</a></li>
+<li class="entertainment"><a href="//www.is.fi/viihde/">Viihde</a></li>
+<li class="sports"><a href="//www.is.fi/urheilu/">Urheilu</a></li>
+<li class="weather"><a href="//www.is.fi/saa/">S&auml;&auml;</a></li>
+</ul><ul><li class="digi"><a href="//www.is.fi/videot/">ISTV</a></li>
+<li class="economy"><a href="//www.is.fi/taloussanomat/">Talous</a></li>
+<li class="lifestyle"><a href="//www.is.fi/hyvaolo/">Hyv&auml; olo</a></li>
+<li class="digi"><a href="//www.is.fi/digi/">Digi</a></li>
+<li class="cars"><a href="//www.is.fi/autot/">Autot</a></li>
+</ul><ul><li class="travel"><a href="//www.is.fi/matkat/">Matkat</a></li>
+<li class="living"><a href="//www.is.fi/asuminen/">Asuminen</a></li>
+<li class="beauty"><a href="//www.is.fi/muoti-kauneus/">Muoti &amp; kauneus</a></li>
+<li class="dining"><a href="//www.is.fi/ruokala/">Ruokala</a></li>
+<li class="family"><a href="//www.is.fi/perhe/">Perhe</a></li>
+</ul><ul><li class="games"><a href="http://www.pelikone.fi/" target="_blank">Nettipelit</a></li>
+<li class="tv"><a href="http://www.iltapulu.fi/" target="_blank">Iltapulu.fi - Tv-ohjelmat</a></li>
+<li class="super-weather"><a href="http://www.supersaa.fi/" target="_blank">IS Supers&auml;&auml;</a></li>
+<li><a href="http://www.sanoma.com/fi/tietosuojalauseke" target="_blank">Tietosuojalauseke</a></li>
+<li><a href="https://oma.sanoma.fi/asiakastuki/urheilulehti-is-digilehdet/tietosuojakuvaus" target="_blank">Tietosuojakuvaus</a></li>
+<li><a href="https://www.sanoma.fi/evastekaytannot/" target="_blank">Ev&auml;stek&auml;yt&auml;nn&ouml;t</a></li>
+<li><a href="https://oma.sanoma.fi/asiakastuki/yleiset/kayttoehdot" target="_blank">K&auml;ytt&ouml;ehdot</a></li>
+</ul></nav></section><ul id="breadcrumbs">
+		<li><a href="https://www.is.fi/taloussanomat/">Taloussanomat</a></li>
+									<li><a>Osinkokalenteri</a></li>
+						</ul>
+</div>
+<section class="tools"><ul class="feedback-col"><li class="item contact">
+<a href="//www.is.fi/info/art-2000000000013.html">
+<span class="fa fa-mobile"></span>
+<p><span class="small">Kaikki</span> yhteystiedot</p>
+</a>
+</li>
+<li class="item feedback">
+<a href="//www.is.fi/palaute/">
+<span class="fa fa-thumbs-up"></span>
+<p><span class="small">L&auml;het&auml;</span> palautetta</p>
+</a>
+</li>
+<li class="item newstip">
+<a href="http://media.sanoma.fi/">
+<span class="fa fa-eur"></span>
+<p><span class="small">Mainosta</span> Ilta-Sanomissa</p>
+</a>
+</li>
+<li class="item customer-service">
+<a href="//www.is.fi/asiakaspalvelu/">
+<span class="fa fa-life-ring"></span>
+<p><span class="small">Ota yhteytt&auml;</span> Asiakaspalvelu</p>
+</a>
+</li>
+</ul><ul class="social-col"><li class="item facebook">
+<a href="http://www.facebook.com/iltasanomat/">
+<span class="fa fa-facebook-square"></span>
+<p><span class="small">Seuraa</span> Facebookissa</p>
+</a>
+</li>
+<li class="item twitter">
+<a href="https://twitter.com/iltasanomat">
+<span class="fa fa-twitter-square"></span>
+<p><span class="small">Seuraa</span> Twitteriss&auml;</p>
+</a>
+</li>
+<li class="item rss">
+<a href="//www.is.fi/rss/">
+<span class="fa fa-rss-square"></span>
+<p><span class="small">Tilaa</span> uutissy&ouml;tteet</p>
+</a>
+</li>
+<li class="item instagram">
+<a href="https://www.instagram.com/iltasanomat/">
+<span class="fa fa-instagram"></span>
+<p><span class="small">Seuraa</span> Instagramissa</p>
+</a>
+</li>
+</ul></section><section class="legal"><ul><li>
+<a href="https://www.sanoma.fi/tietosuojalauseke/">Tietosuojalauseke</a>
+</li>
+<li>
+<a href="https://www.sanoma.fi/evastekaytannot/">Ev&auml;stek&auml;yt&auml;nn&ouml;t</a>
+</li>
+<li>
+<button class="footer-button" onclick="openPrivacyManager()">Ev&auml;steasetukset</button>
+</li>
+<li>
+<a href="https://oma.sanoma.fi/asiakastuki/yleiset/kayttoehdot">K&auml;ytt&ouml;ehdot</a>
+</li>
+<li>
+<a href="https://oma.sanoma.fi/asiakastuki/urheilulehti-is-digilehdet/tietosuojakuvaus">Tietosuojakuvaus</a>
+</li>
+<li>
+<a href="http://www.youronlinechoices.eu/fi/">K&auml;ytt&auml;ytymiseen perustuva mainonta</a>
+</li>
+</ul></section></footer></div>
+<script>
+window.tailCallbacks.queue(function() {
+window.IsPopup.run(window.IsPopupMessages);
+window.SkipLinks.init();
+});
+window.imageObserver = window.ImageLoader.init();
+window.$LAB.script("/assets/js/tail.c6e53c467f1c0fd5.js").wait(function() {
+window.tailCallbacks.run();
+});
+</script><!-- comScore Identifier: comscorekw=is_taloussanomat --><script>
+window.PeAnalyticsConfigurations = {
+apiUrl: "er.sanoma-sndp.fi",
+personalFrontPagePath: "/uusi",
+isFrontPage: false,
+isPersonalFrontPage: false,
+isSinullePage: false,
+hasObservableImpressions: true,
+paywallQuota: -1,
+dmpSegmentWhitelist: [],
+sourceNames: {
+frontPage: "frontpage",
+personalized: "personalized",
+sinulle: "sinulle",
+other: "other"
+},
+brand: "is"
+};
+window.tailCallbacks.queue(function() {
+window.PeImpressionObserver.init();
+});
+</script><script type="text/javascript" id="adblock-detect">
+(function() {
+// Load detector on a sample of page loads
+// Ratio should be a number between 0 and 1
+//     - 0 means 'never load'
+//     - 0.333 means 'load on every three page loads'
+//     - 1 means 'always load'
+var sabdetect_sample_ratio = 10/100;
+window.Sabdetect_load = Math.random() < sabdetect_sample_ratio;
+if (window.Sabdetect_load) {
+var sabd = document.createElement('script');
+sabd.type = 'text/javascript';
+sabd.async = true;
+sabd.src = '//sn.sanoma.fi/js/sabdetect/Sabdetect-is-async.min.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(sabd, s);
+}
+})();
+</script><script type="text/javascript">
+if (window.Sabdetect_load) {
+window.setTimeout(function() {
+if (typeof window.Sabdetect == 'undefined' && dataLayer) {
+dataLayer.push({'event':'eventinfo',
+'eventCategory':'Adblock',
+'eventAction':'Blocked',
+'eventLabel': dataLayer[0].page.category.categoryid});
+}
+}, 5000);
+}
+</script></body>
+	</body>
+</html>

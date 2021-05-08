@@ -1,0 +1,11 @@
+Exel Composites,25
+Finnair,39
+Fortum,10
+Metso Outotec,60
+Nanoform,50
+Neste,5
+Nokia,150
+Revenio Group,8
+Sampo,20
+Tokmanni Group,20
+UPM,24
